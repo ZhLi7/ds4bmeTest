@@ -19,7 +19,15 @@
 
 <img width="1072" alt="HW1_ question 5(2)" src="https://user-images.githubusercontent.com/60142425/73566999-606d0600-4433-11ea-8800-a0eaefb2f1d8.png">
 
+### for question 7 
 
+here is the bash script in the finddcm.sh file 
+    find . -name "*.dcm" > dcmfile  $1 
+
+chmod +x finddcm.sh (to make it executable)
+    path/finddcm.sh directory (to execute the script)
+    
+    
 ### for question 8 
 UINX>wget https://en.wikipedia.org/wiki/Alexander_the_Great | wc
 --2020-01-31 12:18:06--  https://en.wikipedia.org/wiki/Alexander_the_Great
