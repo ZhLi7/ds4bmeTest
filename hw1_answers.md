@@ -1,4 +1,5 @@
-
+### question 5 
+<img width="1074" alt="HW1_question 5(1)" src="https://user-images.githubusercontent.com/60142425/73566873-fbb1ab80-4432-11ea-9552-4bec86ddd096.png">
 
 
 
