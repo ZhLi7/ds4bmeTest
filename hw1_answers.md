@@ -22,9 +22,13 @@
 ### for question 7 
 
 here is the bash script in the finddcm.sh file 
+
     find . -name "*.dcm" > dcmfile  $1 
 
-chmod +x finddcm.sh (to make it executable)
+to make it executable and execute the script 
+
+    chmod +x finddcm.sh (to make it executable)
+
     path/finddcm.sh directory (to execute the script)
     
     
