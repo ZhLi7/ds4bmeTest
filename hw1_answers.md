@@ -19,6 +19,18 @@
 
 <img width="1072" alt="HW1_ question 5(2)" src="https://user-images.githubusercontent.com/60142425/73566999-606d0600-4433-11ea-8800-a0eaefb2f1d8.png">
 
+### for question 6 
+
+here is the bash script in the lsfile.sh file 
+
+    ls -1 -d "$PWD/"* > outfile $1 
+    
+to make it executable and execute the script 
+
+    chmod +x lsfile.sh 
+
+    ./lsfile.sh ..
+
 ### for question 7 
 
 here is the bash script in the finddcm.sh file 
@@ -27,9 +39,9 @@ here is the bash script in the finddcm.sh file
 
 to make it executable and execute the script 
 
-    chmod +x finddcm.sh (to make it executable)
+    chmod +x finddcm.sh 
 
-    path/finddcm.sh directory (to execute the script)
+    path/finddcm.sh directory 
     
     
 ### for question 8 
